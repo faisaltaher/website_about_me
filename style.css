@@ -6,11 +6,7 @@
 img {
   float: right;
 }
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+
 h1{
  font-family: 'Oswald', sans-serif;
  font-weight: 700;
