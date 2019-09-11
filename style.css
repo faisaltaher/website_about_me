@@ -3,8 +3,9 @@
 }
 
 /* Create two equal columns that floats next to each other */
-
-/* Clear floats after the columns */
+img {
+  float: right;
+}
 .row:after {
   content: "";
   display: table;
