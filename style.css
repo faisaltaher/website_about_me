@@ -25,7 +25,7 @@ ul{
 
 .themovers {
   position: relative;
-  right: 0;
+  right: ch;
   transition: right ease 0.5s;
 }
 .themovers:hover {
