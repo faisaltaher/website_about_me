@@ -5,6 +5,8 @@
 /* Create two equal columns that floats next to each other */
 #hkoa{
   float: left;
+  clear:both;
+  margin:10px;
 }
 
 h1{
