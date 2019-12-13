@@ -1,32 +1,37 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="style.css">
-<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="style.css">
+	<link href="https://fonts.googleapisS.com/css?family=Oswald" rel="stylesheet">
+	<script src = "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
+	<script src ="https://cdnjs.cloudflare.com/ajax/libs/typed.js/1.1.1/typed.min.js"></script>
 </head>
+
 <body>
 
 
-
-
-    <img src = "images/dog.png" id ="hkoa" style="width:170px;height:170px;margin-left:15px;">
-
-    <b><font size="+2"><h1 align="left" height = 100%>Faisal Taher</h1></font></b>
-    <font size="+2"><p align="center-left">is a human being living in dubai. <br>I enjoy talking,laughing,playing,programming and studing</p><font>
-	<font size="+2"><p align="center-left">Outside of school i create websites and game like<br>shooting game</p><font>
-	
-	<a href ="https://faisaltaher.github.io/game/"><img src="images/game.PNG"></a>
-    <p>and much more
-	<br><br>you can contact me at</p>
-	<ul>
-	
-	<li class = "themovers"><a href = "https://www.youtube.com/channel/UCUCp5sQFUVO6kYqtCrwGtkg">💻 Youtube</a></li>
-	<li class = "themovers"><a href = "https://github.com/faisaltaher">👨‍💻 github</a></li>
-	<li class = "themovers"><a href = "https://www.facebook.com/faisal.taher.14203">☺️📖 facebook</a></li>
-	</ul>
-	<p>so we can be friend</p>
-
+<div class="banner">
+		<div class="typed_wrap">
+			<h1 id= "text">Faisal is <span class="typed"></span></h1>
+		</div>
+	</div>
 
 </body>
+
 </html>
+<script>$(function(){
+	$(".typed").typed({
+		strings: ["nice.", "perfect.", "a bit funny.","kool.","mortal."],
+		// Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
+	
+		typeSpeed: 100,
+					loop: true,
+					startDelay: 1000,
+					backDelay: 1000
+
+	});
+});
+
+</script>
