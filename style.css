@@ -25,11 +25,8 @@ body{
    position: relative;
   left: 50%;
   top: 150px;
-  	
-text-shadow: 0px 1px, 1px 0px, 1px 1px;
-letter-spacing:1px;
-font-weight:10px;
-font-size:10px;
+
+
  
                 transform: translateX(-50%) translateY(-90%);
                 text-align: center;
