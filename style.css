@@ -70,7 +70,7 @@ body{
 {
    position: relative;
   left: 50%;
-  top: 700px;
+  top: 1000px;
 
 
  
@@ -78,7 +78,7 @@ body{
                 text-align: center;
                 font-family: Pacifico, Calibri;
                 font-size: 300%;
-				  color: white;
+				  color: black;
 }
 	body{
   background-image: url(images/dog3.jpg);
