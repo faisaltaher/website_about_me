@@ -21,7 +21,7 @@ body{
   }
 #fun_fact{
 	   position: absolute;
-	  top: 100px;
+	  top: 100%;
 	font-size: 150%;
 }
 #text
