@@ -19,7 +19,11 @@ body{
      while the background image is loading */
   background-color: #464646;
   }
-	
+#fun_fact{
+	   position: relative;
+	  top: 100px;
+	font-size: 150%;
+}
 #text
 {
    position: relative;
