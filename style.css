@@ -19,22 +19,11 @@ body{
      while the background image is loading */
   background-color: #464646;
   }
-.trapezoid {
--webkit-transform: rotate(90deg);
-    -moz-transform: rotate(90deg);
-    -o-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    transform: rotate(90deg);
-	border-bottom: 50px solid #555;
-	border-left: 25px solid transparent;
- position: absolute;
-	  top: 90%;
-	width: 125px;
-}
+
 #fun_fact{
 	   position: absolute;
 	  top: 90%;
-	font-size: 150%;
+	font-size: 50%;
 }
 #text
 {
