@@ -25,6 +25,15 @@ body{
 	  top: 90%;
 	font-size: 1000px;
 }
+#notebook
+{
+    margin-bottom: 1px;
+    margin-left : 1px;
+   
+ 
+    position: fixed;
+    bottom: 0;
+}
 #text
 {
    position: relative;
@@ -180,12 +189,4 @@ body{
   background-color: #464646;
   }
 }
-#notebook
-{
-    margin-bottom: 1px;
-    margin-left : 1px;
-   
- 
-    position: fixed;
-    bottom: 0;
-}
+
