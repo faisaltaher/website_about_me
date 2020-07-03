@@ -180,4 +180,13 @@ body{
   background-color: #464646;
   }
 }
-
+#notebook
+{
+    margin-bottom: 1px;
+    margin-left : 1px;
+    width: 200px;
+    height: 200px;
+ 
+    position: fixed;
+    bottom: 0;
+}
