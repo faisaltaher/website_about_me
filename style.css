@@ -9,6 +9,9 @@
      position: fixed;
      bottom: 0;
 }
+.banner{
+ height:50%;
+}
  #text {
      position: relative;
      left: 50%;
